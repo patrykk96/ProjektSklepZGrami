@@ -1,0 +1,14 @@
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\bin\Release\SklepZGrami.exe.config
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\bin\Release\SklepZGrami.exe
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\bin\Release\SklepZGrami.pdb
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\SklepZGrami.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\MainWindow.g.cs
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\App.g.cs
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\SklepZGrami_MarkupCompile.cache
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\SklepZGrami_MarkupCompile.lref
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\MainWindow.baml
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\SklepZGrami.g.resources
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\SklepZGrami.Properties.Resources.resources
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\SklepZGrami.csproj.GenerateResource.Cache
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\SklepZGrami.exe
+C:\Users\Patryk\documents\visual studio 2015\Projects\SklepZGrami\SklepZGrami\obj\Release\SklepZGrami.pdb
